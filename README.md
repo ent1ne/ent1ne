@@ -49,7 +49,7 @@
 <!-- SUMMARY -->
 ## Summary
 
-I'm a Manual QA Engineer with 1+ years of experience. I've worked with functional, regression and smoke tests for web apps, learned virtualization, version control systems and Python basics. In 2023 I am preparing for ISTQB certification and trying my best to enhance some skills in automated testing using Python + Selenium. I am interested in projects where with an opportunity to work on disruptive products
+I'm a Manual QA Engineer with 1+ years of experience. I've worked with functional, regression and smoke tests for web, mobile and desktop apps, learned virtualization, version control systems and Python basics. In 2023 I am preparing for ISTQB certification and trying my best to enhance some skills in automated testing using Python + Selenium. I am interested in projects with an opportunity to work on disruptive products
 
 <!-- TESTING PRACTICE -->
 ## Testing practice
