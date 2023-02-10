@@ -68,8 +68,8 @@ I'm a Manual QA Engineer with 1+ years of experience. I've worked with functiona
     </li>
 <br>
 
-You can also check my <a href="https://docs.google.com/spreadsheets/d/1zwSWd4Ly41rNDc9MDMdVHCay2BY6M7Nln72VfwplN4A/edit?usp=sharing"> Youtube player checklist</a> and <a href="https://docs.google.com/spreadsheets/d/1eBTM6DjCxKlohblYpyuxgIfw0Ihxixfxcw5ue0O6tZY/edit?usp=sharing
-">functional login form test suite</a>
+You can also check my <a href="https://docs.google.com/spreadsheets/d/1zwSWd4Ly41rNDc9MDMdVHCay2BY6M7Nln72VfwplN4A/edit?usp=sharing" target="_blank"> Youtube player checklist</a> and <a href="https://docs.google.com/spreadsheets/d/1eBTM6DjCxKlohblYpyuxgIfw0Ihxixfxcw5ue0O6tZY/edit?usp=sharing
+" target="_blank">functional login form test suite</a>
 <br>
 <br>
 Hope this was interesting!
