@@ -49,7 +49,7 @@
 <!-- SUMMARY -->
 ## Summary
 
-I'm a Manual QA Engineer with 1+ years of experience. I've worked with functional, regression and smoke tests for web, mobile and desktop apps, learned virtualization, version control systems and Python basics. In 2023 I am preparing for ISTQB certification and trying my best to enhance some skills in automated testing using Python + Selenium. I am interested in projects with an opportunity to work on disruptive products
+I'm a Manual QA Engineer with 1+ years of experience. I've worked with functional, regression and smoke tests for web, mobile and desktop apps, learned virtualization, version control systems and Python basics. In 2023 I am preparing for ISTQB certification and trying my best to enhance some skills in automated testing using Python + Selenium
 
 <!-- TESTING PRACTICE -->
 ## Testing practice
@@ -66,3 +66,11 @@ I'm a Manual QA Engineer with 1+ years of experience. I've worked with functiona
       <a href="https://github.com/ent1ne/python-practice">And here</a>
       stored some tasks and projects I've done to practice Python
     </li>
+<br>
+
+You can also check my <a href="https://docs.google.com/spreadsheets/d/1zwSWd4Ly41rNDc9MDMdVHCay2BY6M7Nln72VfwplN4A/edit?usp=sharing"> Youtube player checklist</a> and <a href="https://docs.google.com/spreadsheets/d/1eBTM6DjCxKlohblYpyuxgIfw0Ihxixfxcw5ue0O6tZY/edit?usp=sharing
+">functional login form test suite</a>
+<br>
+<br>
+Hope this was interesting!
+
