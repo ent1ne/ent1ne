@@ -1,6 +1,6 @@
 <div align="center">
   <h3 align="center">Hello! My name is Valentin</h3>
-  I am a QA engineer with 1+ years of experience<br><br>
+  I am a QA engineer with 2+ years of experience<br><br>
   <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" /></code>
@@ -49,7 +49,7 @@
 <!-- SUMMARY -->
 ## Summary
 
-I'm a Manual QA Engineer with 1+ years of experience. I've worked with functional, regression and smoke tests for web, mobile and desktop apps, learned virtualization, version control systems and Python basics. In 2023 I am preparing for ISTQB certification and trying my best to enhance some skills in automated testing using Python + Selenium
+QA Engineer with and 2+ years of experience. Studied law, had 7 years of experience in event management and switched into software testing during COVID. I've worked in outsorce and product QA-teams of 3-10 members. I always enjoy gaining lower-level understanding of IT systems and instruments and plan to grow professionally as SET/SDET in future
 
 <!-- TESTING PRACTICE -->
 ## Testing practice
@@ -66,10 +66,15 @@ I'm a Manual QA Engineer with 1+ years of experience. I've worked with functiona
       <a href="https://github.com/ent1ne/python-practice">And here</a>
       stored some tasks and projects I've done to practice Python
     </li>
-<br>
 
-You can also check my <a href="https://docs.google.com/spreadsheets/d/1zwSWd4Ly41rNDc9MDMdVHCay2BY6M7Nln72VfwplN4A/edit?usp=sharing" target="_blank"> Youtube player checklist</a> and <a href="https://docs.google.com/spreadsheets/d/1eBTM6DjCxKlohblYpyuxgIfw0Ihxixfxcw5ue0O6tZY/edit?usp=sharing
-" target="_blank">functional login form test suite</a>
+<!-- JS PRACTICE -->
+## JavaScript practice
+
+ <li>
+      <a href="https://github.com/ent1ne/js-practice">This repository</a>
+      contains some JS practical tasks and projects I've done
+    </li>
+    
 <br>
 <br>
 Hope this was interesting!
