@@ -41,6 +41,9 @@
       <a href="#testing-practice">Testing practice</a>
     </li>
     <li><a href="#python-practice">Python practice</a></li>
+<li>
+      <a href="#javascript-practice">JavaScript practice</a>
+    </li>
   </ol>
 </details>
 
